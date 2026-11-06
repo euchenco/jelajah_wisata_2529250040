@@ -26,8 +26,6 @@ class MainScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               ClipRect(
-                borderRadius : BorderRadius.circular(12),
-                child: ,
               )
             ],
           ),
